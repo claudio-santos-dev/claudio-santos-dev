@@ -52,4 +52,3 @@ Conseguir minha primeira oportunidade como desenvolvedor e continuar evoluindo n
 ## Contato
 
 - e-mail: claudio.vini19@gmail.com
-- celular: (11) 98979-2575
