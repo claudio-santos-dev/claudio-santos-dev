@@ -51,4 +51,4 @@ Conseguir minha primeira oportunidade como desenvolvedor e continuar evoluindo n
 
 ## Contato
 
-- e-mail: claudio.vini19@gmail.com
+- e-mail: claudio.vini19@gmail.com 
